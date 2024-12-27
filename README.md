@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ingovs
-- 👀 I’m interested in Financial Markets and Data modelling in finance
+- 👀 I’m interested in Financial Markets, Data modelling and AI
 - 🌱 I’m currently learning Machine Learning methods and Macroeconomics and Financial Markets
-- 💞️ I’m looking to collaborate on development of data models
+- 💞️ I’m looking to collaborate on development of data and AI models
 - 📫 How to reach me ingoseckelmann@outlook.com.br
 
 <!---
