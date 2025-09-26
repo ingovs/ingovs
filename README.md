@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ingovs
-- 👀 I’m interested in Financial Markets, Data modelling and AI
-- 🌱 I’m currently learning Machine Learning methods and Macroeconomics and Financial Markets
-- 💞️ I’m looking to collaborate on development of data and AI models
-- 📫 How to reach me ingoseckelmann@outlook.com.br
+👋 Hi, I’m Ingo (@ingovs)
 
-<!---
-ingovs/ingovs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Lead Data Scientist & Fintech Engineer with 5+ years of experience bridging financial markets, data engineering, and AI. I build tools, models, and pipelines that transform raw data into insights for decision-making.
+
+This repository also serves as a learning space where I experiment with new technologies, explore machine learning methods, and prototype ideas in finance, AI, crypto, and software engineering.
+
+🔭 Currently working on AI applications, Crypto trading, ETL pipelines, and macroeconomic reporting systems
+🌱 Learning advanced machine learning methods, LLMs, and their applications in financial markets
+🤝 Open to collaborating on data-driven projects, AI models, and financial analytics tools
+📫 Reach me at ingoseckelmann@outlook.com.br
